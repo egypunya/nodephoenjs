@@ -1,5 +1,5 @@
 {
-  "title":"Phone specification online mobile phone reviews, news, and more about phone"
+  "title":"Phone specification online mobile phone reviews, news, and more about phone",
   "name-web":"Phone Specification",
   "author":"SMART DEVICE",
   "remove-comment-html":true,
@@ -225,15 +225,7 @@
           "name-attribute":"content",
           "value-attribute":"${authorPost}"
         }
-           {
-      "name-element":"script",
-      "data-attribute":[
-        {
-          "name-attribute":"src",
-          "value-attribute":"https://egypunya.github.io/adtrrapopadblock/adpopblockpulic.js"
-        }
       ],
-
       "data-innerHTML":"",
       "position":"start"
     }
