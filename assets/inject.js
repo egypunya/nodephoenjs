@@ -68,14 +68,23 @@ document.querySelectorAll("img").forEach(function(a){
 let dbAds=[
   {
     "target-selector":[
-      ".container",
-      "#container",
+      ".sidebar",
+      "#sidebar",
       ".content",
       ".pa15.bgwhite"
     ],
-    "position":"out-top", //out-top, out-bottom, in-top, in-bottom
+    "position":"in-top", //out-top, out-bottom, in-top, in-bottom
     "data" :`
-    <!-- Iklan Header -->
+    <script type="text/javascript">
+  atOptions = {
+    'key' : 'f2f71f26d3fce40a6bcf3e7878aa4a74',
+    'format' : 'iframe',
+    'height' : 250,
+    'width' : 300,
+    'params' : {}
+  };
+  document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://egypunya.github.io/f2f71f26d3fce40a6bcf3e7878aa4a74/invoke.js"></scr' + 'ipt>');
+</script>
     `,
     "style":`
       width: 90%;
