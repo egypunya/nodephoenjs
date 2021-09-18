@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://https://phone-specification.vercel.app/sitemap.xml
+Sitemap: https://phone-specification.vercel.app/sitemap-1.xml
+Sitemap: https://phone-specification.vercel.app/sitemap-2.xml
